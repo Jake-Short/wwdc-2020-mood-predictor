@@ -1,3 +1,5 @@
+> *Note: I will upload screnshots when I can, however there appears to be a bug on Big Sur that prevents the playground from running.*
+ 
  # WWDC 2020: Mood Predictor, by Jake Short
  
  This playground focuses on an important topic in our society: mental health. Learning about and managing your emotions is a vital step in ensuring good mental health. In this playground, you can use the mood predictor to type out a sentence, and an ML model, using **NaturalLanguage**, will detect what emotions you are feeling.
